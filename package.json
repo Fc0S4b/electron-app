@@ -1,0 +1,23 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "app tutorial",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fc0S4b/electron-app.git"
+  },
+  "author": "fc0s4b",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fc0S4b/electron-app/issues"
+  },
+  "homepage": "https://github.com/Fc0S4b/electron-app#readme",
+  "devDependencies": {
+    "electron": "^34.1.1"
+  }
+}
